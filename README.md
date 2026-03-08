@@ -1,7 +1,7 @@
 # Nov/2025 Tlaxcala Data Collection Example
 
 ## Example Video
-The file `Tonalli_juguete-propio_cam-A.mp4` showcases the results from data collection sessions that took place druing november 2025, at various locations around Tlaxcala and Puebla. 
+The file `Tonalli_juguete-propio_cam-A.mp4` showcases the results from data collection sessions that took place during november 2025, at various locations around Tlaxcala and Puebla. 
 
 > [!IMPORTANT]  
 > The full dataset is **private** and subject to institutional data usage agreements. Access requests should be directed to [veronica.reyesm@uatx.mx].
