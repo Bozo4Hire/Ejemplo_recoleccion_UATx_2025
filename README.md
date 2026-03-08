@@ -17,7 +17,7 @@ All source code in this repository is licensed under the **MIT License**. See th
 
 ### 2. Media & Data License (All Rights Reserved)
 
-The example video (`assets/example_demo.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution. 
+The example video (`assets/example_demo.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution (see [LICENSE_MEDIA](LICENSE_MEDIA)). 
 
 **Copyright © 2026 UATx. All Rights Reserved.**
 
