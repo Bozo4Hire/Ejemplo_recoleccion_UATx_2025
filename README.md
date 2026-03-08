@@ -1,10 +1,6 @@
-# Project Name: [Insert Project Title Here]
+# Nov/2025 Tlaxcala Data Collection Example
 
-Description of your project goes here. This repository contains the implementation of [Algorithm/Method] and a sample video demonstration derived from our institutional dataset.
-
----
-
-## 📽️ Example Video
+## Example Video
 The file `Tonalli_juguete-propio_cam-A.mp4` showcases the results from data collection sessions that took place druing november 2025, at various locations around Tlaxcala and Puebla. 
 
 > [!IMPORTANT]  
@@ -19,15 +15,17 @@ This repository uses a dual-licensing approach to distinguish between software a
 ### 1. Code License
 All source code in this repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-### 2. Media & Data License
-The example video (`assets/example_demo.mp4`) and any provided sample weights are licensed under a **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License**.
+### 2. Media & Data License (All Rights Reserved)
 
-**Under this license, you are free to:**
-* **Share:** Copy and redistribute the material in any medium or format.
-* **Adapt:** Remix, transform, and build upon the material.
+The example video (`assets/example_demo.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution. 
 
-**Under the following terms:**
-* **Attribution:** You must give appropriate credit to [UATx] and provide a link to the license.
-* **Non-Commercial:** You may **not** use the material for commercial purposes.
+**Copyright © 2026 UATx. All Rights Reserved.**
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+**Under this restrictive notice:**
+
+* **No Redistribution:** You may **not** copy, share, or host this video.
+* **No Modification:** You may **not** edit, remix, or create derivative works from these assets.
+* **Non-Commercial:** Commercial use of these assets is strictly prohibited.
+* **Institutional Property:** These assets are derived from a private dataset gathered by **[UATx]** and are subject to institutional data privacy agreements.
+
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](https://en.wikipedia.org/wiki/All_rights_reserved)
