@@ -17,7 +17,7 @@ All source code in this repository is licensed under the **MIT License**. See th
 
 ### 2. Media & Data License (All Rights Reserved)
 
-The example video (`assets/example_demo.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution (see [LICENSE_MEDIA](LICENSE_MEDIA)). 
+The example video (`Tonalli_juguete-propio_cam-A.mp4`) and any provided sample weights are **proprietary assets** and are **not** licensed for public reuse, modification, or redistribution (see [LICENSE_MEDIA](LICENSE_MEDIA)). 
 
 **Copyright © 2026 UATx. All Rights Reserved.**
 
@@ -26,6 +26,6 @@ The example video (`assets/example_demo.mp4`) and any provided sample weights ar
 * **No Redistribution:** You may **not** copy, share, or host this video.
 * **No Modification:** You may **not** edit, remix, or create derivative works from these assets.
 * **Non-Commercial:** Commercial use of these assets is strictly prohibited.
-* **Institutional Property:** These assets are derived from a private dataset gathered by **[UATx]** and are subject to institutional data privacy agreements.
+* **Institutional Property:** These assets are derived from a private dataset gathered by **UATx** and are subject to institutional data privacy agreements.
 
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All_Rights_Reserved-red.svg)](https://en.wikipedia.org/wiki/All_rights_reserved)
